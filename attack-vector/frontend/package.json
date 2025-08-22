@@ -1,0 +1,19 @@
+{
+  "name": "attack-vector-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host",
+    "start": "vite"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.26.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.2"
+  }
+}
